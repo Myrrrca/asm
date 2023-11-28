@@ -1,1 +1,1 @@
-# Simple fasm programs
+# Simple fasm programs using tiny mem model
